@@ -1,14 +1,23 @@
-<!-- ![Screenshot](assets/git_logo.png) -->
-<img src="assets/git_logo.png" alt="Screenshot">
+<!-- Banner -->
+<p align="center">
+  <img src="assets/git_logo.png" alt="Screenshot" width="400">
+</p>
 
-[![GitHub Actions Build Status](https://github.com/georgetoloraia/selflink-mobile/actions/workflows/ci.yml/badge.svg)](https://github.com/georgetoloraia/selflink-mobile/actions/workflows/ci.yml)
-[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/PkqyuWq2Zd)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/georgetoloraia/selflink-mobile/actions/workflows/ci.yml">
+    <img src="https://github.com/georgetoloraia/selflink-mobile/actions/workflows/ci.yml/badge.svg" />
+  </a>
+  <a href="https://discord.gg/PkqyuWq2Zd">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+</p>
 
-
-
-
-# SelfLink Mobile
+<!-- Heading -->
+<h1 align="center">SelfLink Mobile</h1>
 
 SelfLink Mobile is an early-stage, open-source mobile app built with React Native + Expo. It is developed in public and intentionally unfinished, with a focus on clean architecture, developer experience, and learning-by-doing.
 
